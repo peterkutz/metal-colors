@@ -1,0 +1,717 @@
+==============================
+DETAILED INFORMATION
+==============================
+
+Ag
+
+F0 (non-Y-normalized XYZ): 10390.1133, 10977.0154, 11639.0266
+F82 (non-Y-normalized XYZ): 10436.3063, 11020.419, 11826.0852
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.930116997, 0.982656139, 1.041919
+F82 (XYZ): 0.934252169, 0.986541611, 1.05866439
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.314793201, 0.332574797, 0.352632001
+F82 (xyz chromaticity): 0.313564453, 0.331114436, 0.355321111
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.984250184, 0.985218003, 0.952581972
+F82 (non-D65-relative linear Rec. 709 RGB): 0.983329263, 0.989194889, 0.969718858
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.986814673, 0.983010426, 0.966688593
+F82 (linear Rec. 709 RGB): 0.985891352, 0.986978401, 0.984079257
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.986136584, 0.98313611, 0.968236207
+F82 (linear P3-D65 RGB): 0.986085115, 0.986942485, 0.984323714
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.985727175, 0.983010428, 0.967371434
+F82 (linear Adobe RGB): 0.986202098, 0.986978401, 0.984200546
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.984696959, 0.983089722, 0.968480537
+F82 (linear Rec. 2020 RGB): 0.98617319, 0.986871208, 0.984368353
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.994181503, 0.992494323, 0.985212034
+F82 (sRGB): 0.993772361, 0.994254032, 0.992968733
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.986814673, 0.983010426, 0.966688593
+Specular Edge Color (linear Rec. 709 RGB): 0.992926181, 0.996071642, 1.00201473
+Base Color (sRGB): 0.994181503, 0.992494323, 0.985212034
+Specular Edge Color (sRGB): 0.996884027, 0.998271177, 1.00088512
+Base Color (clipped 8-bit sRGB): 254, 253, 251
+Specular Edge Color (clipped 8-bit sRGB): 254, 255, 255
+Base Color (scaled linear Rec. 709 RGB): 0.986814673, 0.983010426, 0.966688593
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.992926181, 0.996071642, 1.00201473
+Base Color (scaled sRGB): 0.994181503, 0.992494323, 0.985212034
+Specular Edge Color (scaled sRGB): 0.996884027, 0.998271177, 1.00088512
+Base Color (clipped scaled 8-bit sRGB): 254, 253, 251
+Specular Edge Color (clipped scaled 8-bit sRGB): 254, 255, 255
+F0 relative error: 0, 0, 0
+F82 relative error: -1.12611093e-16, 0, 1.12818456e-16
+F90 relative error: 0, 0, 0
+
+Al
+
+F0 (non-Y-normalized XYZ): 9736.26406, 10290.9261, 11092.6595
+F82 (non-Y-normalized XYZ): 9409.07562, 9974.06, 11012.9006
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.871584792, 0.921237823, 0.993008533
+F82 (XYZ): 0.84229507, 0.892872148, 0.985868568
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.312863467, 0.330686885, 0.356449648
+F82 (xyz chromaticity): 0.309549427, 0.328136863, 0.362313709
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.913359837, 0.924698729, 0.910156769
+F82 (non-D65-relative linear Rec. 709 RGB): 0.865601703, 0.89957782, 0.906766585
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.915739619, 0.922626758, 0.923635124
+F82 (linear Rec. 709 RGB): 0.867857051, 0.897562137, 0.920194734
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.916967226, 0.922399214, 0.923424658
+F82 (linear P3-D65 RGB): 0.873151866, 0.896580716, 0.917626941
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.917708396, 0.922626758, 0.923592938
+F82 (linear Adobe RGB): 0.876348637, 0.897562136, 0.919247877
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.918353499, 0.922164197, 0.92341424
+F82 (linear Rec. 2020 RGB): 0.879912584, 0.895771415, 0.917305317
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.962007435, 0.965187455, 0.965651887
+F82 (sRGB): 0.93950249, 0.953546697, 0.964066096
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.915739619, 0.922626758, 0.923635124
+Specular Edge Color (linear Rec. 709 RGB): 0.909013648, 0.936497391, 0.959569287
+Base Color (sRGB): 0.962007435, 0.965187455, 0.965651887
+Specular Edge Color (sRGB): 0.958888338, 0.971550214, 0.98201316
+Base Color (clipped 8-bit sRGB): 245, 246, 246
+Specular Edge Color (clipped 8-bit sRGB): 245, 248, 250
+Base Color (scaled linear Rec. 709 RGB): 0.915739619, 0.922626758, 0.923635124
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.909013648, 0.936497391, 0.959569287
+Base Color (scaled sRGB): 0.962007435, 0.965187455, 0.965651887
+Specular Edge Color (scaled sRGB): 0.958888338, 0.971550214, 0.98201316
+Base Color (clipped scaled 8-bit sRGB): 245, 246, 246
+Specular Edge Color (clipped scaled 8-bit sRGB): 245, 248, 250
+F0 relative error: 0, 0, 0
+F82 relative error: 1.27926946e-16, 1.23693166e-16, 0
+F90 relative error: 0, 0, 0
+
+Au
+
+F0 (non-Y-normalized XYZ): 8696.85449, 8957.22739, 4807.57634
+F82 (non-Y-normalized XYZ): 9407.5288, 9922.57539, 7878.11452
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.778537441, 0.801845874, 0.430371485
+F82 (XYZ): 0.842156599, 0.888263275, 0.705244307
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.387186663, 0.398778545, 0.214034792
+F82 (xyz chromaticity): 0.345760555, 0.364690372, 0.289549073
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 1.07588423, 0.767528449, 0.334642415
+F82 (non-D65-relative linear Rec. 709 RGB): 1.0121608, 0.879404578, 0.611087136
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 1.07868747, 0.765808649, 0.339598077
+F82 (linear Rec. 709 RGB): 1.01479801, 0.877434097, 0.62013662
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 1.02291808, 0.77614574, 0.383697687
+F82 (linear P3-D65 RGB): 0.990313464, 0.881972395, 0.645869475
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.989246911, 0.765808672, 0.357429028
+F82 (linear Adobe RGB): 0.975530692, 0.877434113, 0.630900923
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.943679712, 0.78257065, 0.389927738
+F82 (linear Rec. 2020 RGB): 0.952525438, 0.884008766, 0.649666689
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 1.03382723, 0.888994008, 0.617699805
+F82 (sRGB): 1.0064771, 0.944060613, 0.809547516
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 1.07868747, 0.765808649, 0.339598077
+Specular Edge Color (linear Rec. 709 RGB): 0.973631339, 1.00374468, 0.961239737
+Base Color (sRGB): 1.03382723, 0.888994008, 0.617699805
+Specular Edge Color (sRGB): 0.988318367, 1.00164431, 0.982764972
+Base Color (clipped 8-bit sRGB): 255, 227, 158
+Specular Edge Color (clipped 8-bit sRGB): 252, 255, 251
+Base Color (scaled linear Rec. 709 RGB): 1, 0.70994488, 0.314825271
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.940771111, 0.963613384, 0.909893731
+Base Color (scaled sRGB): 1, 0.859666394, 0.596800647
+Specular Edge Color (scaled sRGB): 0.973499571, 0.983831961, 0.959297231
+Base Color (clipped scaled 8-bit sRGB): 255, 219, 152
+Specular Edge Color (clipped scaled 8-bit sRGB): 248, 251, 245
+F0 relative error: -0.0729474251, -0.0729474251, -0.0729474251
+F82 relative error: -0.0729474251, -0.0729474251, -0.0729474251
+F90 relative error: -2.22044605e-16, 0, 2.22044605e-16
+
+Cr
+
+F0 (non-Y-normalized XYZ): 5850.42325, 6194.1832, 6647.94685
+F82 (non-Y-normalized XYZ): 6090.61319, 6396.55027, 7379.58825
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.523726544, 0.554499739, 0.595120401
+F82 (XYZ): 0.54522821, 0.572615522, 0.66061652
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.312981493, 0.331371702, 0.355646804
+F82 (xyz chromaticity): 0.306573177, 0.321972629, 0.371454194
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.548169979, 0.557335131, 0.545055087
+F82 (non-D65-relative linear Rec. 709 RGB): 0.557348261, 0.573201094, 0.611783556
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.54959825, 0.55608631, 0.553126714
+F82 (linear Rec. 709 RGB): 0.558800446, 0.571916723, 0.620843353
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.550754723, 0.55587195, 0.553283407
+F82 (linear P3-D65 RGB): 0.561138363, 0.571483388, 0.616174628
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.551452944, 0.556086311, 0.553250532
+F82 (linear Adobe RGB): 0.562549919, 0.57191672, 0.618796458
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.55189355, 0.555606855, 0.553332757
+F82 (linear Rec. 2020 RGB): 0.565787809, 0.571561198, 0.615443424
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.76712531, 0.771155334, 0.769320418
+F82 (sRGB): 0.772833067, 0.780874593, 0.80995791
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.54959825, 0.55608631, 0.553126714
+Specular Edge Color (linear Rec. 709 RGB): 0.737220201, 0.751069913, 0.817029165
+Base Color (sRGB): 0.76712531, 0.771155334, 0.769320418
+Specular Edge Color (sRGB): 0.874147446, 0.881381041, 0.914805798
+Base Color (clipped 8-bit sRGB): 196, 197, 196
+Specular Edge Color (clipped 8-bit sRGB): 223, 225, 233
+Base Color (scaled linear Rec. 709 RGB): 0.54959825, 0.55608631, 0.553126714
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.737220201, 0.751069913, 0.817029165
+Base Color (scaled sRGB): 0.76712531, 0.771155334, 0.769320418
+Specular Edge Color (scaled sRGB): 0.874147446, 0.881381041, 0.914805798
+Base Color (clipped scaled 8-bit sRGB): 196, 197, 196
+Specular Edge Color (clipped scaled 8-bit sRGB): 223, 225, 233
+F0 relative error: 0, 0, 0
+F82 relative error: 1.98679696e-16, 0, 0
+F90 relative error: 5.55111512e-16, 4.4408921e-16, 2.22044605e-16
+
+Cu
+
+F0 (non-Y-normalized XYZ): 8698.65919, 8434.57089, 6963.81897
+F82 (non-Y-normalized XYZ): 9388.57259, 9432.38941, 8949.13254
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.778698997, 0.755057963, 0.623397093
+F82 (XYZ): 0.84045965, 0.844382106, 0.801121228
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.360984416, 0.350025054, 0.28899053
+F82 (xyz chromaticity): 0.338082126, 0.339659967, 0.322257907
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 1.05209413, 0.687620453, 0.548217626
+F82 (non-D65-relative linear Rec. 709 RGB): 1.02631795, 0.802713859, 0.721282656
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 1.05483539, 0.686079703, 0.556336086
+F82 (linear Rec. 709 RGB): 1.02899205, 0.800915219, 0.731964007
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.989106093, 0.698262995, 0.57448292
+F82 (linear P3-D65 RGB): 0.98833822, 0.808450636, 0.742162306
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.949421811, 0.686079698, 0.561764033
+F82 (linear Adobe RGB): 0.963793344, 0.800915215, 0.734848645
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.911643166, 0.709999695, 0.576187139
+F82 (linear Rec. 2020 RGB): 0.940909949, 0.815836083, 0.74304543
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 1.02372998, 0.846727257, 0.771309931
+F82 (sRGB): 1.01263827, 0.906789845, 0.87138144
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 1.05483539, 0.686079703, 0.556336086
+Specular Edge Color (linear Rec. 709 RGB): 0.999540577, 0.963426551, 0.961082689
+Base Color (sRGB): 1.02372998, 0.846727257, 0.771309931
+Specular Edge Color (sRGB): 0.999798018, 0.983748032, 0.982694323
+Base Color (clipped 8-bit sRGB): 255, 216, 197
+Specular Edge Color (clipped 8-bit sRGB): 255, 251, 251
+Base Color (scaled linear Rec. 709 RGB): 1, 0.650413999, 0.527415076
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.97550012, 0.934895224, 0.930099411
+Base Color (scaled sRGB): 1, 0.826890998, 0.753132708
+Specular Edge Color (scaled sRGB): 0.989152292, 0.970818086, 0.968622202
+Base Color (clipped scaled 8-bit sRGB): 255, 211, 192
+Specular Edge Color (clipped scaled 8-bit sRGB): 252, 248, 247
+F0 relative error: -0.0519847818, -0.0519847818, -0.0519847818
+F82 relative error: -0.0519847818, -0.0519847818, -0.0519847818
+F90 relative error: -2.22044605e-16, 0, 2.22044605e-16
+
+Hg
+
+F0 (non-Y-normalized XYZ): 8257.62273, 8711.2591, 9352.15365
+F82 (non-Y-normalized XYZ): 7880.06611, 8349.59109, 9494.84721
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.739217665, 0.779826933, 0.837199447
+F82 (XYZ): 0.705419012, 0.74745062, 0.849973293
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.313727123, 0.330961869, 0.355311008
+F82 (xyz chromaticity): 0.306325284, 0.324577335, 0.369097381
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.779452768, 0.781237835, 0.766951974
+F82 (non-D65-relative linear Rec. 709 RGB): 0.713317973, 0.753790871, 0.785177366
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.781483652, 0.779487317, 0.778309633
+F82 (linear Rec. 709 RGB): 0.715176541, 0.752101853, 0.796804922
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.781127813, 0.779553273, 0.778451029
+F82 (linear P3-D65 RGB): 0.72175833, 0.750881889, 0.792108591
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.780912974, 0.779487317, 0.778358903
+F82 (linear Adobe RGB): 0.725732129, 0.752101851, 0.794934724
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.780688135, 0.7796115, 0.778467448
+F82 (linear Rec. 2020 RGB): 0.73087061, 0.750061072, 0.791458041
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.896997374, 0.895983317, 0.895384392
+F82 (sRGB): 0.862468829, 0.881916888, 0.904730131
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.781483652, 0.779487317, 0.778309633
+Specular Edge Color (linear Rec. 709 RGB): 0.810321787, 0.853196532, 0.904557774
+Base Color (sRGB): 0.896997374, 0.895983317, 0.895384392
+Specular Edge Color (sRGB): 0.911480489, 0.932467726, 0.956814554
+Base Color (clipped 8-bit sRGB): 229, 228, 228
+Specular Edge Color (clipped 8-bit sRGB): 232, 238, 244
+Base Color (scaled linear Rec. 709 RGB): 0.781483652, 0.779487317, 0.778309633
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.810321787, 0.853196532, 0.904557774
+Base Color (scaled sRGB): 0.896997374, 0.895983317, 0.895384392
+Specular Edge Color (scaled sRGB): 0.911480489, 0.932467726, 0.956814554
+Base Color (clipped scaled 8-bit sRGB): 229, 228, 228
+Specular Edge Color (clipped scaled 8-bit sRGB): 232, 238, 244
+F0 relative error: 0, 0, 0
+F82 relative error: 1.55237618e-16, 0, 0
+F90 relative error: -2.22044605e-16, 0, 2.22044605e-16
+
+Mg
+
+F0 (non-Y-normalized XYZ): 9406.75674, 9886.67791, 10731.4853
+F82 (non-Y-normalized XYZ): 9083.83945, 9568.94714, 10706.3269
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.842087485, 0.885049753, 0.960676427
+F82 (XYZ): 0.813180114, 0.856606676, 0.958424263
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.313298312, 0.329282407, 0.357419281
+F82 (xyz chromaticity): 0.309404419, 0.325927659, 0.364667922
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.889516018, 0.8840576, 0.88172325
+F82 (non-D65-relative linear Rec. 709 RGB): 0.840678958, 0.858624009, 0.88353639
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.891833674, 0.882076693, 0.894780537
+F82 (linear Rec. 709 RGB): 0.842869369, 0.856700091, 0.896620528
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.890094526, 0.882399058, 0.893795561
+F82 (linear P3-D65 RGB): 0.845334635, 0.856243149, 0.892757179
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.889044521, 0.882076692, 0.894249058
+F82 (linear Adobe RGB): 0.846823072, 0.856700089, 0.894950415
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.888734706, 0.882889962, 0.89359645
+F82 (linear Rec. 2020 RGB): 0.849738434, 0.856194748, 0.89216277
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.95085969, 0.946259779, 0.952243206
+F82 (sRGB): 0.927469867, 0.934155261, 0.953105712
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.891833674, 0.882076693, 0.894780537
+Specular Edge Color (linear Rec. 709 RGB): 0.894881322, 0.914656764, 0.950351669
+Base Color (sRGB): 0.95085969, 0.946259779, 0.952243206
+Specular Edge Color (sRGB): 0.952290476, 0.961506177, 0.977850828
+Base Color (clipped 8-bit sRGB): 242, 241, 243
+Specular Edge Color (clipped 8-bit sRGB): 243, 245, 249
+Base Color (scaled linear Rec. 709 RGB): 0.891833674, 0.882076693, 0.894780537
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.894881322, 0.914656764, 0.950351669
+Base Color (scaled sRGB): 0.95085969, 0.946259779, 0.952243206
+Specular Edge Color (scaled sRGB): 0.952290476, 0.961506177, 0.977850828
+Base Color (clipped scaled 8-bit sRGB): 242, 241, 243
+Specular Edge Color (clipped scaled 8-bit sRGB): 243, 245, 249
+F0 relative error: 0, 0, 0
+F82 relative error: 0, 0, 0
+F90 relative error: -2.22044605e-16, 0, 2.22044605e-16
+
+Ni
+
+F0 (non-Y-normalized XYZ): 6889.03502, 7216.43093, 6854.81209
+F82 (non-Y-normalized XYZ): 7154.13835, 7534.30634, 8012.09262
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.616702476, 0.64601077, 0.613638859
+F82 (XYZ): 0.640434374, 0.674466795, 0.71723795
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.328670975, 0.344290802, 0.327038223
+F82 (xyz chromaticity): 0.31515282, 0.331899912, 0.352947268
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.699581155, 0.639660057, 0.551134686
+F82 (non-D65-relative linear Rec. 709 RGB): 0.681092088, 0.67434571, 0.656151808
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.701403932, 0.638226771, 0.559296344
+F82 (linear Rec. 709 RGB): 0.682866691, 0.672834704, 0.665868647
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.690142856, 0.640314061, 0.567553584
+F82 (linear P3-D65 RGB): 0.681078529, 0.67316615, 0.666674336
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.683343905, 0.638226775, 0.562598479
+F82 (linear Adobe RGB): 0.679998917, 0.672834705, 0.666160079
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.674447696, 0.641691095, 0.568703654
+F82 (linear Rec. 2020 RGB): 0.678824259, 0.673447038, 0.666772703
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.855065271, 0.819967759, 0.77313909
+F82 (sRGB): 0.844965298, 0.8394326, 0.835562415
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.701403932, 0.638226771, 0.559296344
+Specular Edge Color (linear Rec. 709 RGB): 0.813368695, 0.835190415, 0.872476007
+Base Color (sRGB): 0.855065271, 0.819967759, 0.77313909
+Specular Edge Color (sRGB): 0.912993034, 0.923730417, 0.941704491
+Base Color (clipped 8-bit sRGB): 218, 209, 197
+Specular Edge Color (clipped 8-bit sRGB): 233, 236, 240
+Base Color (scaled linear Rec. 709 RGB): 0.701403932, 0.638226771, 0.559296344
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.813368695, 0.835190415, 0.872476007
+Base Color (scaled sRGB): 0.855065271, 0.819967759, 0.77313909
+Specular Edge Color (scaled sRGB): 0.912993034, 0.923730417, 0.941704491
+Base Color (clipped scaled 8-bit sRGB): 218, 209, 197
+Specular Edge Color (clipped scaled 8-bit sRGB): 233, 236, 240
+F0 relative error: 0, 0, 0
+F82 relative error: 0, 0, 0
+F90 relative error: -2.22044605e-16, 0, 2.22044605e-16
+
+Pd
+
+F0 (non-Y-normalized XYZ): 7506.28132, 7892.3671, 8003.24783
+F82 (non-Y-normalized XYZ): 7426.08525, 7842.67681, 8561.66331
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.671958012, 0.70652019, 0.71644617
+F82 (XYZ): 0.664778905, 0.702071943, 0.766435204
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.32075526, 0.337253315, 0.341991424
+F82 (xyz chromaticity): 0.311622018, 0.329103517, 0.359274465
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.734375691, 0.703889849, 0.650530427
+F82 (non-D65-relative linear Rec. 709 RGB): 0.693022013, 0.704580683, 0.703875378
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.736289126, 0.702312643, 0.66016402
+F82 (linear Rec. 709 RGB): 0.694827699, 0.70300193, 0.714298947
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.730232954, 0.703435181, 0.664577507
+F82 (linear P3-D65 RGB): 0.696284723, 0.702731865, 0.713132107
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.726576499, 0.702312645, 0.66192735
+F82 (linear Adobe RGB): 0.697164412, 0.703001929, 0.713826325
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.721804965, 0.704179098, 0.665191473
+F82 (linear Rec. 2020 RGB): 0.698361815, 0.702565818, 0.712966892
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.87365832, 0.855556354, 0.832375426
+F82 (sRGB): 0.851500249, 0.855928609, 0.861999567
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.736289126, 0.702312643, 0.66016402
+Specular Edge Color (linear Rec. 709 RGB): 0.809540616, 0.836865241, 0.87387347
+Base Color (sRGB): 0.87365832, 0.855556354, 0.832375426
+Specular Edge Color (sRGB): 0.911092167, 0.924547718, 0.942369364
+Base Color (clipped 8-bit sRGB): 223, 218, 212
+Specular Edge Color (clipped 8-bit sRGB): 232, 236, 240
+Base Color (scaled linear Rec. 709 RGB): 0.736289126, 0.702312643, 0.66016402
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.809540616, 0.836865241, 0.87387347
+Base Color (scaled sRGB): 0.87365832, 0.855556354, 0.832375426
+Specular Edge Color (scaled sRGB): 0.911092167, 0.924547718, 0.942369364
+Base Color (clipped scaled 8-bit sRGB): 223, 218, 212
+Specular Edge Color (clipped scaled 8-bit sRGB): 232, 236, 240
+F0 relative error: 0, 0, 0
+F82 relative error: 1.59783933e-16, 1.57926028e-16, 0
+F90 relative error: -2.22044605e-16, 0, 2.22044605e-16
+
+Pt
+
+F0 (non-Y-normalized XYZ): 9782.8199, 10391.3773, 10092.8823
+F82 (non-Y-normalized XYZ): 9605.10267, 10174.0776, 10286.8981
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.875752444, 0.93023015, 0.903509053
+F82 (XYZ): 0.859843299, 0.910777606, 0.920877239
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.323216514, 0.34332276, 0.333460726
+F82 (xyz chromaticity): 0.319466428, 0.338390575, 0.342142996
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.957667825, 0.933809415, 0.813955988
+F82 (non-D65-relative linear Rec. 709 RGB): 0.927352812, 0.913458648, 0.83539651
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.960163053, 0.931717029, 0.826009722
+F82 (linear Rec. 709 RGB): 0.929769054, 0.911411863, 0.847767753
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.955092678, 0.932656828, 0.836098493
+F82 (linear P3-D65 RGB): 0.926496967, 0.912018348, 0.853863231
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.952031357, 0.931717037, 0.830432096
+F82 (linear Adobe RGB): 0.924521394, 0.911411867, 0.85043037
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.945026371, 0.932492578, 0.837678204
+F82 (linear Rec. 2020 RGB): 0.920196289, 0.911963458, 0.854813476
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.982280481, 0.969363606, 0.919233238
+F82 (sRGB): 0.968470696, 0.960002024, 0.929844881
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.960163053, 0.931717029, 0.826009722
+Specular Edge Color (linear Rec. 709 RGB): 0.950106862, 0.946126054, 0.935200773
+Base Color (sRGB): 0.982280481, 0.969363606, 0.919233238
+Specular Edge Color (sRGB): 0.977739962, 0.975934825, 0.970957767
+Base Color (clipped 8-bit sRGB): 250, 247, 234
+Specular Edge Color (clipped 8-bit sRGB): 249, 249, 248
+Base Color (scaled linear Rec. 709 RGB): 0.960163053, 0.931717029, 0.826009722
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.950106862, 0.946126054, 0.935200773
+Base Color (scaled sRGB): 0.982280481, 0.969363606, 0.919233238
+Specular Edge Color (scaled sRGB): 0.977739962, 0.975934825, 0.970957767
+Base Color (clipped scaled 8-bit sRGB): 250, 247, 234
+Specular Edge Color (clipped scaled 8-bit sRGB): 249, 249, 248
+F0 relative error: 0, 0, 0
+F82 relative error: -1.19408472e-16, 1.21813537e-16, 0
+F90 relative error: 0, 0, 0
+
+Ti
+
+F0 (non-Y-normalized XYZ): 4349.89672, 4533.17538, 4394.28933
+F82 (non-Y-normalized XYZ): 6471.77424, 6842.75702, 7457.85538
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.389400267, 0.405807268, 0.393374268
+F82 (XYZ): 0.579349529, 0.612559696, 0.667622949
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.327617557, 0.341421404, 0.330961039
+F82 (xyz chromaticity): 0.311556604, 0.329416024, 0.359027372
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.44201265, 0.400204204, 0.35467243
+F82 (non-D65-relative linear Rec. 709 RGB): 0.60303145, 0.615354346, 0.612939633
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.443164325, 0.399307467, 0.359924712
+F82 (linear Rec. 709 RGB): 0.604602664, 0.613975522, 0.62201655
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.435347013, 0.400756444, 0.364257667
+F82 (linear P3-D65 RGB): 0.606273339, 0.613665855, 0.62112464
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.430627268, 0.399307469, 0.361572329
+F82 (linear Adobe RGB): 0.607282019, 0.613975522, 0.621680145
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.425110327, 0.401884601, 0.364822829
+F82 (linear Rec. 2020 RGB): 0.608445013, 0.613420552, 0.621009542
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.696601762, 0.664665289, 0.634192677
+F82 (sRGB): 0.80045726, 0.8059582, 0.810638575
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.443164325, 0.399307467, 0.359924712
+Specular Edge Color (linear Rec. 709 RGB): 0.86274153, 0.906602924, 0.948102393
+Base Color (sRGB): 0.696601762, 0.664665289, 0.634192677
+Specular Edge Color (sRGB): 0.937055768, 0.957767115, 0.976831569
+Base Color (clipped 8-bit sRGB): 178, 169, 162
+Specular Edge Color (clipped 8-bit sRGB): 239, 244, 249
+Base Color (scaled linear Rec. 709 RGB): 0.443164325, 0.399307467, 0.359924712
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.86274153, 0.906602924, 0.948102393
+Base Color (scaled sRGB): 0.696601762, 0.664665289, 0.634192677
+Specular Edge Color (scaled sRGB): 0.937055768, 0.957767115, 0.976831569
+Base Color (clipped scaled 8-bit sRGB): 178, 169, 162
+Specular Edge Color (clipped scaled 8-bit sRGB): 239, 244, 249
+F0 relative error: 0, 0, 0
+F82 relative error: 0, 0, -1.78487699e-16
+F90 relative error: -2.22044605e-16, 0, 2.22044605e-16
+
+Zn
+
+F0 (non-Y-normalized XYZ): 9198.61313, 9707.89371, 10285.3843
+F82 (non-Y-normalized XYZ): 8833.22263, 9347.86145, 10305.3968
+F90 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+D65 (non-Y-normalized XYZ): 10584.8929, 11170.7595, 12013.0833
+F0 (XYZ): 0.823454587, 0.869045094, 0.920741724
+F82 (XYZ): 0.790745039, 0.836815212, 0.92253323
+F90 (XYZ): 0.94755356, 1, 1.07540434
+D65 (XYZ): 0.94755356, 1, 1.07540434
+F0 (xyz chromaticity): 0.315108503, 0.332554464, 0.352337033
+F82 (xyz chromaticity): 0.310084726, 0.328150799, 0.361764475
+F90 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+D65 (xyz chromaticity): 0.313452449, 0.330801828, 0.355745723
+F0 (non-D65-relative linear Rec. 709 RGB): 0.873644525, 0.870433707, 0.841741439
+F82 (non-D65-relative linear Rec. 709 RGB): 0.816290275, 0.841749465, 0.848389528
+F90 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+D65 (non-D65-relative linear Rec. 709 RGB): 0.997401246, 1.00224573, 0.985407274
+F0 (linear Rec. 709 RGB): 0.875920828, 0.868483328, 0.854206642
+F82 (linear Rec. 709 RGB): 0.81841714, 0.839863358, 0.860953182
+F90 (linear Rec. 709 RGB): 1, 1, 1
+D65 (linear Rec. 709 RGB): 1, 1, 1
+F0 (linear P3-D65 RGB): 0.874595124, 0.868729051, 0.855631299
+F82 (linear P3-D65 RGB): 0.822239844, 0.839154802, 0.858668059
+F90 (linear P3-D65 RGB): 1, 1, 1
+D65 (linear P3-D65 RGB): 1, 1, 1
+F0 (linear Adobe RGB): 0.873794718, 0.868483329, 0.854803922
+F82 (linear Adobe RGB): 0.824547823, 0.839863357, 0.860070868
+F90 (linear Adobe RGB): 1, 1, 1
+D65 (linear Adobe RGB): 1, 1, 1
+F0 (linear Rec. 2020 RGB): 0.872534344, 0.868835449, 0.855842125
+F82 (linear Rec. 2020 RGB): 0.827323922, 0.838623598, 0.858363976
+F90 (linear Rec. 2020 RGB): 1, 1, 1
+D65 (linear Rec. 2020 RGB): 1, 1, 1
+F0 (sRGB): 0.943342321, 0.939801455, 0.932954673
+F82 (sRGB): 0.915491922, 0.926008395, 0.936198416
+F90 (sRGB): 1, 1, 1
+D65 (sRGB): 1, 1, 1
+Base Color (linear Rec. 709 RGB): 0.875920828, 0.868483328, 0.854206642
+Specular Edge Color (linear Rec. 709 RGB): 0.876880669, 0.903728587, 0.934133141
+Base Color (sRGB): 0.943342321, 0.939801455, 0.932954673
+Specular Edge Color (sRGB): 0.943798005, 0.95642799, 0.970469587
+Base Color (clipped 8-bit sRGB): 241, 240, 238
+Specular Edge Color (clipped 8-bit sRGB): 241, 244, 247
+Base Color (scaled linear Rec. 709 RGB): 0.875920828, 0.868483328, 0.854206642
+Specular Edge Color (scaled linear Rec. 709 RGB): 0.876880669, 0.903728587, 0.934133141
+Base Color (scaled sRGB): 0.943342321, 0.939801455, 0.932954673
+Specular Edge Color (scaled sRGB): 0.943798005, 0.95642799, 0.970469587
+Base Color (clipped scaled 8-bit sRGB): 241, 240, 238
+Specular Edge Color (clipped scaled 8-bit sRGB): 241, 244, 247
+F0 relative error: 0, 0, 0
+F82 relative error: 0, 0, 1.28952776e-16
+F90 relative error: -2.22044605e-16, 0, 2.22044605e-16
+
+==============================
+SUMMARY
+==============================
+
+Ag
+
+Base Color (8-bit sRGB): 254, 253, 251
+Specular Edge Color (8-bit sRGB): 254, 255, 255
+
+Al
+
+Base Color (8-bit sRGB): 245, 246, 246
+Specular Edge Color (8-bit sRGB): 245, 248, 250
+
+Au
+
+Base Color (8-bit sRGB): 255, 219, 152
+Specular Edge Color (8-bit sRGB): 248, 251, 245
+
+Cr
+
+Base Color (8-bit sRGB): 196, 197, 196
+Specular Edge Color (8-bit sRGB): 223, 225, 233
+
+Cu
+
+Base Color (8-bit sRGB): 255, 211, 192
+Specular Edge Color (8-bit sRGB): 252, 248, 247
+
+Hg
+
+Base Color (8-bit sRGB): 229, 228, 228
+Specular Edge Color (8-bit sRGB): 232, 238, 244
+
+Mg
+
+Base Color (8-bit sRGB): 242, 241, 243
+Specular Edge Color (8-bit sRGB): 243, 245, 249
+
+Ni
+
+Base Color (8-bit sRGB): 218, 209, 197
+Specular Edge Color (8-bit sRGB): 233, 236, 240
+
+Pd
+
+Base Color (8-bit sRGB): 223, 218, 212
+Specular Edge Color (8-bit sRGB): 232, 236, 240
+
+Pt
+
+Base Color (8-bit sRGB): 250, 247, 234
+Specular Edge Color (8-bit sRGB): 249, 249, 248
+
+Ti
+
+Base Color (8-bit sRGB): 178, 169, 162
+Specular Edge Color (8-bit sRGB): 239, 244, 249
+
+Zn
+
+Base Color (8-bit sRGB): 241, 240, 238
+Specular Edge Color (8-bit sRGB): 241, 244, 247
+
+==============================
